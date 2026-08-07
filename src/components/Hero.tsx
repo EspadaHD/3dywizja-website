@@ -6,12 +6,12 @@ export default function Hero() {
       {/* 1. Ulepszone tło z czołgiem */}
       <div className="absolute inset-0 z-0">
         {/* Lżejszy gradient zamiast czarnej plamy - lepiej widać czołg */}
-        <div className="absolute inset-0 bg-gradient-to-b from-zinc-950/40 via-zinc-950/60 to-zinc-950 z-10" />
+        <div className="absolute inset-0 bg-linear-to-b from-zinc-950/40 via-zinc-950/60 to-zinc-950 z-10" />
         <Image
           src="/images/hero-bg.png" 
           alt="Front Wardenów"
           fill
-          className="object-cover object-center opacity-60 grayscale-[30%]" 
+          className="object-cover object-center opacity-60 grayscale-30" 
           priority
         />
       </div>
@@ -49,7 +49,7 @@ export default function Hero() {
             className="group relative px-8 py-4 bg-blue-600 text-white font-bold uppercase tracking-widest overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(37,99,235,0.6)]"
           >
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out"></div>
-            <span className="relative z-10">Aplikuj na Discord</span>
+            <span className="relative z-10">Dołącz do nas</span>
           </a>
           <a
             href="#"

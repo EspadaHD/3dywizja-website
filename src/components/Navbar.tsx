@@ -22,12 +22,6 @@ export default function Navbar() {
 
         {/* Prawa strona: Nawigacja i Discord */}
         <nav className="flex items-center gap-6 md:gap-10">
-          <Link
-            href="/"
-            className="text-sm font-bold text-zinc-300 hover:text-white uppercase tracking-widest transition-colors"
-          >
-            Baza
-          </Link>
 
           {/* Rozwijane Menu: Archiwum */}
           <div className="relative group py-6">
