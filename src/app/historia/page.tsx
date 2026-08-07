@@ -53,7 +53,7 @@ export default function HistoryPage() {
               </strong>
             </p>
           </div>
-          <div className="relative aspect-square w-full max-w-sm mx-auto bg-zinc-900/50 border border-zinc-800 rounded-lg p-4">
+          <div className="relative aspect-square w-full max-w-sm mx-auto bg-zinc-900/50 rounded-lg p-4">
             <Image
               src="/images/historiaholdfast/flaga12pp.jpg"
               alt="Flaga 12 pułku piechoty"
@@ -68,7 +68,7 @@ export default function HistoryPage() {
           <h2 className="text-3xl font-bold text-white mb-8 uppercase tracking-wider text-center">
             Drabinka <span className="text-blue-600">Rang</span>
           </h2>
-          <div className="relative h-125 md:h-175 w-full max-w-4xl mx-auto bg-zinc-900 border border-zinc-800 rounded-lg p-4">
+          <div className="relative h-125 md:h-175 w-full max-w-4xl mx-auto bg-zinc-900 rounded-lg p-4">
             <Image
               src="/images/historiaholdfast/rangi.png"
               alt="Struktura Rang Liniowych, Podoficerskich i Oficerskich"
