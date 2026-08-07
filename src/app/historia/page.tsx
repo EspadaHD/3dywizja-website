@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function HistoryPage() {
   return (
-    <main className="min-h-screen bg-zinc-950 text-slate-200 py-12 px-4 md:px-8 font-sans">
+    <main className="min-h-screen bg-zinc-950 text-slate-200 pt-32 pb-12 px-4 md:px-8 font-sans">
       <div className="max-w-6xl mx-auto">
         
         {/* Przycisk powrotu */}
