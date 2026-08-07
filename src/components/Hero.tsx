@@ -52,10 +52,11 @@ export default function Hero() {
             className="group relative px-8 py-4 bg-blue-600 text-white font-bold uppercase tracking-widest overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(37,99,235,0.6)]"
           >
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out"></div>
-            <span className="relative z-10">
-              {" "}
+
+            {/* Dodaliśmy flex, items-center i gap-3 aby ładnie ułożyć ikonę i tekst w jednej linii */}
+            <span className="relative z-10 flex items-center justify-center gap-3">
               <svg
-                className="w-8 h-8"
+                className="w-6 h-6"
                 fill="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
