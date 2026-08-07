@@ -38,8 +38,8 @@ export default function HistoryPage() {
           </div>
           <div className="relative h-80 w-full bg-zinc-900/50 border border-zinc-800 rounded-lg p-6">
             <Image
-              src="/images/image_0f069c.jpg"
-              alt="Dawne Godło 3. Dywizji"
+              src="/images/historiaholdfast/flaga12pp.jpg"
+              alt="Flaga 12 pułku piechoty"
               fill
               className="object-contain drop-shadow-2xl"
             />
@@ -53,7 +53,7 @@ export default function HistoryPage() {
           </h2>
           <div className="relative h-125 md:h-175 w-full bg-zinc-900 border border-zinc-800 rounded-lg p-4">
             <Image
-              src="/images/image_0f0681.jpg"
+              src="/images/historiaholdfast/rangi.png"
               alt="Struktura Rang Liniowych, Podoficerskich i Oficerskich"
               fill
               className="object-contain"
@@ -67,7 +67,7 @@ export default function HistoryPage() {
           </p>
         </section>
 
-        {/* Sekcja 3: Organziacja */}
+        {/* Sekcja 3: Organizacja */}
         <section className="mb-24">
           <h2 className="text-3xl font-bold text-white mb-12 uppercase tracking-wider border-l-4 border-blue-600 pl-4">
             Organizacja
@@ -78,8 +78,8 @@ export default function HistoryPage() {
             <div className="bg-zinc-900/40 border border-zinc-800 rounded-lg p-6 flex flex-col items-center">
               <div className="relative h-64 w-full mb-6">
                 <Image
-                  src="/images/image_0f039c.jpg"
-                  alt="Emblematy Pułków"
+                  src="/images/historiaholdfast/kompanieglowne.png"
+                  alt="Główne Kompanie"
                   fill
                   className="object-contain"
                 />
@@ -93,21 +93,21 @@ export default function HistoryPage() {
               </p>
             </div>
 
-            {/* Oddziały Elitarne */}
+            {/* Quasi Kompanie */}
             <div className="bg-zinc-900/40 border border-zinc-800 rounded-lg p-6 flex flex-col items-center">
               <div className="relative h-64 w-full mb-6">
                 <Image
-                  src="/images/image_0f0397.jpg"
-                  alt="Oddziały Elitarne"
+                  src="/images/historiaholdfast/quasikompanie.png"
+                  alt="Quasi Kompanie"
                   fill
                   className="object-contain"
                 />
               </div>
               <h3 className="text-xl font-bold text-white uppercase tracking-widest mb-2">
-                Oddziały Specjalne
+                Quasi kompanie
               </h3>
               <p className="text-zinc-400 text-center text-sm leading-relaxed">
-                Elitarna Kompania Grenadierska (Kompania do walki wręcz, "melee") oraz Kompania Marynarska.
+                Kompania Grenadierska (Kompania "melee"), Kompania Marynarska, Kompania Reprezentacyjna.
               </p>
             </div>
           </div>
