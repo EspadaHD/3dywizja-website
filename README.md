@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 3. Dywizja - Oficjalna Strona Klanowa ⚔️
 
-## Getting Started
+Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, walczącego po stronie Wardenów w grze **Foxhole**. 
 
-First, run the development server:
+Strona służy jako główny punkt rekrutacyjny, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszego szlaku bojowego z czasów *Holdfast: Nations At War*.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠 Technologie
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Kwatera główna została zbudowana w oparciu o najnowsze standardy webowe, aby zapewnić błyskawiczne ładowanie i mroczny, e-sportowy design:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Język:** [TypeScript](https://www.typescriptlang.org/)
+- **Hosting / CI/CD:** [Vercel](https://vercel.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Wdrożenie (Deployment)
 
-## Learn More
+Projekt jest automatycznie budowany i wdrażany przez platformę Vercel przy każdym nowym commicie do głównej gałęzi (`main`).
 
-To learn more about Next.js, take a look at the following resources:
+## 🎖 Zespół i Historia
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade: Warband*, przez złotą erę pułku w *Holdfast: NaW*, aż po obecny, błękitny front w Foxhole.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Za Callahana! Za imperium Wardenów.*
