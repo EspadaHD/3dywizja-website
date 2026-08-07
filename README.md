@@ -1,8 +1,8 @@
-# 3. Dywizja - Oficjalna Strona Klanowa ⚔️
+# 3. Dywizja - Strona internetowa pułku
 
-Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, walczącego po stronie Wardenów w grze **Foxhole**. 
+Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. 
 
-Strona służy jako główny punkt rekrutacyjny, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszego szlaku bojowego z czasów *Holdfast: Nations At War*.
+Strona służy jako główny punkt rekrutacyjny, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszego szlaku bojowego z czasów *Holdfast: Nations At War i Mount & Blade: Warband*.
 
 ## 🛠 Technologie
 
