@@ -2,11 +2,11 @@
 
 Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. 
 
-Strona służy jako główny punkt rekrutacyjny, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszego szlaku bojowego z czasów *Holdfast: Nations At War i Mount & Blade: Warband*.
+Strona służy jako wizytówka naszej społeczności, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War i Mount & Blade: Warband*.
 
 ## 🛠 Technologie
 
-Kwatera główna została zbudowana w oparciu o najnowsze standardy webowe, aby zapewnić błyskawiczne ładowanie i mroczny, e-sportowy design:
+Strona internetowa 3. Dywizji została napisana w oparciu o najnowsze standardy webowe, w celu zapewnienia błyskawicznego ładowania strony i mroczny, przejrzysty design:
 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)

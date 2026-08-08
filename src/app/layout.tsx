@@ -7,7 +7,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "3. Dywizja | Foxhole Warden Clan",
+  title: "3. Dywizja Woysk Xięstwa Warszawskiego",
   description: "Oficjalna strona polskiego klanu 3. Dywizja w grze Foxhole. Miłego dnia/wieczoru!",
 };
 
@@ -20,8 +20,8 @@ export default function RootLayout({
     <html lang="pl">
       <body className={`${inter.className} bg-zinc-950 text-slate-200 antialiased`}>
         <Navbar />
-        {children}
         <SpeedInsights />
+        {children}
       </body>
     </html>
   );
