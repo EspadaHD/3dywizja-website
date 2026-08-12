@@ -23,3 +23,29 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 
 ---
 *Za Callahana! Za imperium Wardenów.*
+
+---
+
+## 📋 Notatki
+
+### ✅ ZROBIONE 
+- [x] **Strona Główna:** Mroczny, militarny klimat dopasowany do Holdfast/Foxhole
+- [x] **Nawigacja (Navbar):** W pełni responsywna, z przejściami
+- [x] **Sekcja Hero:** Wyśrodkowana, czytelna z odznaką 3. Dywizji
+- [x] **Technikalia:** Repozytorium na GitHubie, Vercel podpięty (strona widoczna w sieci)
+
+### 🛠️ W TRAKCIE
+- [ ] **Wideo w tle (Hero):** Podpiąć lekki plik wideo `.mp4` w pętli.
+- [ ] **Podstrona - Oś Czasu:** Pionowa, przewijana oś czasu z historią pułku
+- [ ] **Podstrona - Hala Chwały:** Sekcja z profilami członków Kadry Oficerskiej 3. Dywizji
+- [ ] **Podrasowanie pliku README.md:** Dodanie loga 3. Dywizji oraz odpowiednich tagów
+
+### 💡 Pomysły 
+- [ ] Animowane Statystyki na stronie głównej
+- [ ] Panel "Dlaczego My?" (3 kafelki z ikonami)
+- [ ] Baza Wiedzy / Akademia (poradniki dla rekrutów)
+- [ ] Live Widget Discorda na stronie
+- [ ] Galeria Wideo (najlepsze filmy z operacji)
+- [ ] Zakup i podpięcie domeny `3dywizja.pl`
+- [ ] Sekcja Kadry (Dowództwo): Zaimplementować e-sportowe karty postaci na stronie głównej w formie piramidy, pionowej hierarchii od najwyższej rangi do najniższej
+- [ ] Wsparcie dla telefonów (aby ładnie strona internetowa wyglądała na telefonie)
