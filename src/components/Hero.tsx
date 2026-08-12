@@ -38,10 +38,9 @@ export default function Hero() {
         <div className="w-24 h-1 bg-blue-600 mb-8 rounded-full shadow-[0_0_15px_rgba(37,99,235,0.8)]"></div>
 
         <p className="text-lg md:text-xl text-zinc-300 mb-12 max-w-2xl font-light leading-relaxed drop-shadow-md">
-          Błękitna flaga na froncie. Od zaawansowanej logistyki po ciężkie
-          uderzenia pancerne –{" "}
+          Błękitna flaga na froncie. Weterani z gry Holdfast: Nations at War, dzisiaj zorganizowany pułk w Foxhole –{" "}
           <strong className="font-bold text-white">
-            budujemy potęgę Wardenów.
+            dołącz do zgranej społeczności.
           </strong>
         </p>
 
