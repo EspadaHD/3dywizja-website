@@ -69,7 +69,7 @@ export default function Navbar() {
 
           {/* Przycisk Discord */}
           <a
-            href="#"
+            href="https://discord.gg/uWAtn5mpuv"
             className="text-zinc-400 hover:text-[#5865F2] hover:scale-110 transition-all duration-300"
             title="Dołącz na naszego Discorda"
           >

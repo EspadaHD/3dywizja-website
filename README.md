@@ -42,7 +42,7 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 - [X] **Podrasowanie pliku README.md:** Dodanie loga 3. Dywizji oraz odpowiednich tagów
 
 ### 🛠️ W trakcie
-- [ ] **Wideo w tle (Hero):** Podpiąć lekki plik wideo `.mp4` w pętli.
+- [ ] **Wideo w tle (Hero):** Podpiąć lekki plik wideo `.mp4` w pętli (w stylu menu głównego z gier takich jak Factorio/Earth 2160)
 - [ ] **Podstrona - Oś Czasu:** Pionowa, przewijana oś czasu z historią pułku
 - [ ] **Podstrona - Hala Chwały:** Sekcja z profilami członków Kadry Oficerskiej 3. Dywizji
 

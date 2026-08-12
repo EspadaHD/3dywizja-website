@@ -48,7 +48,7 @@ export default function Hero() {
         {/* 4. Przyciski z nowymi animacjami najechania */}
         <div className="flex flex-col sm:flex-row gap-6 w-full justify-center">
           <a
-            href="#"
+            href="https://discord.gg/uWAtn5mpuv"
             className="group relative px-8 py-4 bg-blue-600 text-white font-bold uppercase tracking-widest overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(37,99,235,0.6)]"
           >
             <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out"></div>
@@ -68,7 +68,7 @@ export default function Hero() {
           </a>
           <a
             href="#"
-            className="px-8 py-4 bg-zinc-900/80 backdrop-blur-md hover:bg-zinc-800 text-white font-bold uppercase tracking-widest transition-all duration-300 border border-zinc-700 hover:border-zinc-500 hover:scale-105"
+            className="hidden px-8 py-4 bg-zinc-900/80 backdrop-blur-md hover:bg-zinc-800 text-white font-bold uppercase tracking-widest transition-all duration-300 border border-zinc-700 hover:border-zinc-500 hover:scale-105"
           >
             Obejrzyj Wideo
           </a>
