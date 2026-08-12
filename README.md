@@ -1,4 +1,7 @@
-# 3. Dywizja - Strona internetowa pułku
+<div align="center">
+  <img src="public/images/3dywizjalogo.png" alt="Logo 3. Dywizji" width="200" />
+  <h1>3. Dywizja - Strona internetowa pułku</h1>
+</div>
 
 Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. 
 
@@ -28,13 +31,13 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 
 ## 📋 Notatki
 
-### ✅ ZROBIONE 
+### ✅ Zrobione 
 - [x] **Strona Główna:** Mroczny, militarny klimat dopasowany do Holdfast/Foxhole
 - [x] **Nawigacja (Navbar):** W pełni responsywna, z przejściami
 - [x] **Sekcja Hero:** Wyśrodkowana, czytelna z odznaką 3. Dywizji
 - [x] **Technikalia:** Repozytorium na GitHubie, Vercel podpięty (strona widoczna w sieci)
 
-### 🛠️ W TRAKCIE
+### 🛠️ W trakcie
 - [ ] **Wideo w tle (Hero):** Podpiąć lekki plik wideo `.mp4` w pętli.
 - [ ] **Podstrona - Oś Czasu:** Pionowa, przewijana oś czasu z historią pułku
 - [ ] **Podstrona - Hala Chwały:** Sekcja z profilami członków Kadry Oficerskiej 3. Dywizji
