@@ -26,9 +26,13 @@ Projekt jest automatycznie budowany i wdrażany przez platformę Vercel przy ka�
 ## 🎖 Historia
 
 Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade: Warband*, przez złotą erę pułku w *Holdfast: NaW*, aż po obecny, błękitny front w Foxhole.
+
 ---
+
 *Za Callahana! Za imperium Wardenów.*
+
 ---
+
 ## 📋 Notatki 
 
 ### ✅ Zrobione 
