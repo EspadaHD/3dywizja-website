@@ -10,7 +10,7 @@
 
 # 3. Dywizja - Strona internetowa pułku
 
-> Oficjalna wizytówka polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. Kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War* i *Mount & Blade: Warband*.
+> Strona służy jako wizytówka naszej społeczności oraz jako historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War* i *Mount & Blade: Warband*.
 
 ## 🛠 Technologie
 
@@ -21,31 +21,27 @@ Strona internetowa 3. Dywizji została napisana w oparciu o najnowsze standardy 
 - **Język:** [TypeScript](https://www.typescriptlang.org/)
 - **Hosting:** [Vercel](https://vercel.com/)
 
-## 🚀 Wdrożenie (Deployment)
-
 Projekt jest automatycznie budowany i wdrażany przez platformę Vercel przy każdym nowym commicie do głównej gałęzi (`main`).
 
-## 🎖 Zespół i Historia
+## 🎖 Historia
 
 Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade: Warband*, przez złotą erę pułku w *Holdfast: NaW*, aż po obecny, błękitny front w Foxhole.
-
 ---
 *Za Callahana! Za imperium Wardenów.*
 ---
-
 ## 📋 Notatki 
 
 ### ✅ Zrobione 
 - [x] **Strona Główna:** Mroczny, militarny klimat dopasowany do Holdfast/Foxhole
 - [x] **Nawigacja (Navbar):** W pełni responsywna, z przejściami
-- [x] **Sekcja Hero:** Wyśrodkowana, czytelna z odznaką 3. Dywizji
+- [x] **Sekcja Hero:** Wyśrodkowana, czytelna z logiem 3. Dywizji
 - [x] **Technikalia:** Repozytorium na GitHubie, Vercel podpięty (strona widoczna w sieci)
+- [X] **Podrasowanie pliku README.md:** Dodanie loga 3. Dywizji oraz odpowiednich tagów
 
 ### 🛠️ W trakcie
 - [ ] **Wideo w tle (Hero):** Podpiąć lekki plik wideo `.mp4` w pętli.
 - [ ] **Podstrona - Oś Czasu:** Pionowa, przewijana oś czasu z historią pułku
 - [ ] **Podstrona - Hala Chwały:** Sekcja z profilami członków Kadry Oficerskiej 3. Dywizji
-- [ ] **Podrasowanie pliku README.md:** Dodanie loga 3. Dywizji oraz odpowiednich tagów
 
 ### 💡 Pomysły 
 - [ ] Animowane Statystyki na stronie głównej
