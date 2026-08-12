@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
+  <h1>3. Dywizja - Strona internetowa pułku</h1>
 </div>
-
-# 3. Dywizja - Strona internetowa pułku
 
 > Strona służy jako wizytówka naszej społeczności oraz jako historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War* i *Mount & Blade: Warband*.
 
