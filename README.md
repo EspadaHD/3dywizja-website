@@ -1,11 +1,16 @@
 <div align="center">
   <img src="public/images/3dywizjalogo.png" alt="Logo 3. Dywizji" width="200" />
-  <h1>3. Dywizja - Strona internetowa pułku</h1>
+  <br><br>
+  <a href="https://discord.gg/uWAtn5mpuv"><img src="https://img.shields.io/static/v1?label=Do%C5%82%C4%85cz%20do%20nas&message=Discord&plastic&color=5865F2&logo=discord" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
 </div>
 
-Repozytorium zawierające kod źródłowy oficjalnej wizytówki polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. 
+# 3. Dywizja - Strona internetowa pułku
 
-Strona służy jako wizytówka naszej społeczności, kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War i Mount & Blade: Warband*.
+> Oficjalna wizytówka polskiego klanu **3. Dywizja**, dzisiaj walczącego po stronie Wardenów w grze **Foxhole**. Kompendium wiedzy o naszych jednostkach (Logistyka, Wojska Pancerne, Piechota) oraz historyczne archiwum naszej bogatej historii z czasów, gdy graliśmy w *Holdfast: Nations At War* i *Mount & Blade: Warband*.
 
 ## 🛠 Technologie
 
@@ -14,7 +19,7 @@ Strona internetowa 3. Dywizji została napisana w oparciu o najnowsze standardy 
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Język:** [TypeScript](https://www.typescriptlang.org/)
-- **Hosting / CI/CD:** [Vercel](https://vercel.com/)
+- **Hosting:** [Vercel](https://vercel.com/)
 
 ## 🚀 Wdrożenie (Deployment)
 
@@ -26,10 +31,9 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 
 ---
 *Za Callahana! Za imperium Wardenów.*
-
 ---
 
-## 📋 Notatki
+## 📋 Notatki 
 
 ### ✅ Zrobione 
 - [x] **Strona Główna:** Mroczny, militarny klimat dopasowany do Holdfast/Foxhole
