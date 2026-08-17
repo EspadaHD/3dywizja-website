@@ -61,5 +61,5 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 Osoby, które aktywnie tworzą kod naszej strony:
 
 <a href="https://github.com/EspadaHD/3dywizja-website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=EspadaHD/3dywizja-website&v=1" alt="Współtwórcy" />
+  <img src="https://contrib.rocks/image?repo=EspadaHD/3dywizja-website" alt="Współtwórcy" />
 </a>
