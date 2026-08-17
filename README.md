@@ -55,3 +55,11 @@ Historia 3. Dywizji sięga lat wstecz, od formowania szeregów w *Mount & Blade:
 - [ ] Zakup i podpięcie domeny `3dywizja.pl`
 - [ ] Sekcja Kadry (Dowództwo): Zaimplementować e-sportowe karty postaci na stronie głównej w formie piramidy, pionowej hierarchii od najwyższej rangi do najniższej
 - [ ] Wsparcie dla telefonów (aby ładnie strona internetowa wyglądała na telefonie)
+
+## 🤝 Współtwórcy
+
+Osoby, które aktywnie tworzą kod naszej strony:
+
+<a href="https://github.com/EspadaHD/3dywizja-website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=EspadaHD/3dywizja-website" alt="Współtwórcy" />
+</a>
